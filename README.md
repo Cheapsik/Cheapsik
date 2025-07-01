@@ -3,8 +3,6 @@
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/cheapsik)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfijal/)
 
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/lfijal/">Here!</a>
-
 ## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
 <table align="center">
