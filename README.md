@@ -2,17 +2,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cheapsik)
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/cheapsik)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfijal/)
-![Profile views:](https://visitor-badge.glitch.me/badge?page_id=cheapsik.cheapsik)
 
-
-  𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
-- 🌱 I’m currently learning: <img height="20" margin="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-- 🔭 I’m currently working on my Covid-19 website 😁
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/lfijal/">Here!</a>
-- 🧗 I’m looking for a new job. 😉
-- 💬 Ask me about anything, I am happy to help 😄
-
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
