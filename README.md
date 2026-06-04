@@ -1,51 +1,48 @@
-# Hello, I'm Łukasz
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cheapsik)
-[![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/cheapsik)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfijal/)
+<h1 align="center">Hi there, I'm Łukasz! 👋</h1>
 
-## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
+<p align="center">
+  <strong>Full-Stack Developer</strong>
+</p>
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS3</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lfijal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheapsik&langs_count=10&theme=tokyonight&layout=compact"/></p>
+---
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+### 👨‍💻 About Me
+
+I'm a Full-Stack Developer and entrepreneur based in Poland. I specialize in building modern web applications, B2B SaaS solutions, and complex data-driven platforms. In my daily work, I heavily rely on AI-assisted tools to rapidly prototype, iterate, and deploy high-quality software. 
+
+*   🔭 **Currently focusing on:** Architecting scalable full-stack applications and optimizing complex business logic.
+*   ⚡ **My workflow:** Rapid prototyping driven by AI tools, combined with a strong emphasis on clean code and robust database design.
+*   🌱 **Currently exploring:** Seamless LLM integrations, RAG's, system scalability, and Next.js SSR optimization.
+*   🎲 **In my spare time:** I'm building a platform for running D&D games with a Dungeon Master; I'm a board game enthusiast and a Boy Scout 🍃.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Backend & Databases:**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cheapsik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheapsik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
